@@ -1,0 +1,3 @@
+[submodule "Plugins/IOSQRCodeReader"]
+	path = Plugins/IOSQRCodeReader
+	url = https://github.com/MatthewDZane/UnrealEngineIOSQRCodeReader.git
